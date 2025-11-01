@@ -91,7 +91,7 @@ Optimized	wc -l optimized.s	95 lines
 The optimized assembly file has fewer lines → code is simplified and efficient.
 
 
-##🧩 Conclusion
+## 🧩 Conclusion
 
 Compiler optimizations significantly reduce the size of generated code.
 
