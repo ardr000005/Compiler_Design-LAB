@@ -62,6 +62,7 @@ gcc -S -O0 -o non_optimized.s sample.c
 ```
 wc -l optimized.s
 ```
+```
 wc -l non_optimized.s
 ```
     The optimized version will generally have fewer lines, indicating more compact code.
