@@ -127,7 +127,7 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
 ./output
 ```
 
-###📚 Concepts Covered
+### 📚 Concepts Covered
 
    ## Lexical Analysis
 
