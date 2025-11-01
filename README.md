@@ -127,7 +127,7 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
 ./output
 ```
 📚 Concepts Covered
-```
+
     Lexical Analysis
 
     Finite Automata (DFA, NFA, ε-NFA)
@@ -145,7 +145,6 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
     Code Optimization
 
     Code Generation
-```
 👨‍💻 Author
 
 Aravind R (ardr000005)
