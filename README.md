@@ -126,25 +126,27 @@ yacc -d filename.y
 gcc lex.yy.c y.tab.c -o output -ll -ly
 ./output
 ```
-📚 Concepts Covered
 
-    Lexical Analysis
+###📚 Concepts Covered
 
-    Finite Automata (DFA, NFA, ε-NFA)
+   ## Lexical Analysis
 
-    Syntax Analysis
+   ## Finite Automata (DFA, NFA, ε-NFA)
 
-    Recursive Descent Parsing
+   ## Syntax Analysis
 
-    Shift Reduce Parsing
+   ## Recursive Descent Parsing
 
-    FIRST and FOLLOW computation
+   ## Shift Reduce Parsing
 
-    Intermediate Code Generation
+   ## FIRST and FOLLOW computation
 
-    Code Optimization
+   ## Intermediate Code Generation
 
-    Code Generation
+   ## Code Optimization
+
+   ## Code Generation
+
 👨‍💻 Author
 
 Aravind R (ardr000005)
