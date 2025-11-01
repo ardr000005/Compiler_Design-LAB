@@ -1,4 +1,4 @@
-# 🧠 Compiler Design Laboratory
+# 🧠 Compiler Design Lab
 
 This repository contains all the **Compiler Design Lab** experiments implemented using **C**, **LEX**, and **YACC**.  
 It demonstrates the various phases of a compiler — from lexical analysis to code generation and optimization.
