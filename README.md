@@ -151,7 +151,7 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
 
 Aravind R (ardr000005)
 B.Tech CSE Student
-Compiler Design Laboratory 
+Compiler Design Lab
 
 This repository is intended for educational use.
 Feel free to fork, improve, or refer to these codes for learning Compiler Design concepts.
