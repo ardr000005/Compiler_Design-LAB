@@ -7,6 +7,7 @@ It demonstrates the various phases of a compiler — from lexical analysis to co
 
 ## 📁 Repository Structure
 
+```
 Compiler_Design-LAB/
 │
 ├── LEX/
@@ -34,7 +35,7 @@ Compiler_Design-LAB/
 ├── recursivedescent.c
 └── shiftreduce.c
 
-
+```
 ---
 
 ## 🧩 Overview of Experiments
@@ -149,8 +150,7 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
 
 Aravind R (ardr000005)
 B.Tech CSE Student
-Compiler Design Laboratory – [KTU University]
-🏷️ License
+Compiler Design Laboratory 
 
 This repository is intended for educational use.
 Feel free to fork, improve, or refer to these codes for learning Compiler Design concepts.
