@@ -88,11 +88,13 @@ Type	Command	Lines in Assembly
 Non-Optimized	wc -l non_optimized.s	150 lines
 Optimized	wc -l optimized.s	95 lines
 
-✅ Result: The optimized assembly file has fewer lines → code is simplified and efficient.
-🧩 Conclusion
+The optimized assembly file has fewer lines → code is simplified and efficient.
 
-    Compiler optimizations significantly reduce the size of generated code.
 
-    Optimized code executes faster and consumes fewer resources.
+##🧩 Conclusion
 
-    GCC’s -O options allow developers to control optimization levels based on their needs.
+Compiler optimizations significantly reduce the size of generated code.
+
+Optimized code executes faster and consumes fewer resources.
+
+GCC’s -O options allow developers to control optimization levels based on their needs.
