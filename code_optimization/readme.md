@@ -54,9 +54,10 @@ gcc -S -O -o optimized.s sample.c
 ```
 gcc -S -O0 -o non_optimized.s sample.c
 ```
-    -S → generates assembly code
-    -O → enables optimization
-    -O0 → disables optimization
+   
+-S → generates assembly code
+-O → enables optimization
+-O0 → disables optimization
 
 3️⃣ Compare Line Counts of Assembly Files
 ```
@@ -65,9 +66,9 @@ wc -l optimized.s
 ```
 wc -l non_optimized.s
 ```
-    The optimized version will generally have fewer lines, indicating more compact code.
+The optimized version will generally have fewer lines, indicating more compact code.
 
-    The non-optimized version will have more lines due to redundant instructions and extra function calls.
+The non-optimized version will have more lines due to redundant instructions and extra function calls.
 
 4️⃣ (Optional) Generate Executable Files
 ```
