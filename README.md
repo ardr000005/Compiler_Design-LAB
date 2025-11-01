@@ -147,10 +147,12 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
 
    ### Code Generation
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Aravind R (ardr000005)
+
 B.Tech CSE Student
+
 Compiler Design Lab
 
 This repository is intended for educational use.
