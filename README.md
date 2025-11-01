@@ -112,22 +112,22 @@ Implements parsing and syntax validation using **YACC** along with LEX.
 ```bash
 gcc filename.c -o output
 ./output
-
+```
 2️⃣ Compile and Run LEX Programs
-
+```
 lex filename.l
 gcc lex.yy.c -o output -ll
 ./output
-
+```
 3️⃣ Compile and Run LEX + YACC Programs
-
+```
 lex filename.l
 yacc -d filename.y
 gcc lex.yy.c y.tab.c -o output -ll -ly
 ./output
-
+```
 📚 Concepts Covered
-
+```
     Lexical Analysis
 
     Finite Automata (DFA, NFA, ε-NFA)
@@ -145,7 +145,7 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
     Code Optimization
 
     Code Generation
-
+```
 👨‍💻 Author
 
 Aravind R (ardr000005)
