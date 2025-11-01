@@ -127,25 +127,25 @@ gcc lex.yy.c y.tab.c -o output -ll -ly
 ./output
 ```
 
-### 📚 Concepts Covered
+## 📚 Concepts Covered
 
-   ## Lexical Analysis
+   ### Lexical Analysis
 
-   ## Finite Automata (DFA, NFA, ε-NFA)
+   ### Finite Automata (DFA, NFA, ε-NFA)
 
-   ## Syntax Analysis
+   ### Syntax Analysis
 
-   ## Recursive Descent Parsing
+   ### Recursive Descent Parsing
 
-   ## Shift Reduce Parsing
+   ### Shift Reduce Parsing
 
-   ## FIRST and FOLLOW computation
+   ### FIRST and FOLLOW computation
 
-   ## Intermediate Code Generation
+   ### Intermediate Code Generation
 
-   ## Code Optimization
+   ### Code Optimization
 
-   ## Code Generation
+   ### Code Generation
 
 👨‍💻 Author
 
