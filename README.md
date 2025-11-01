@@ -86,7 +86,7 @@ Implements parsing and syntax validation using **YACC** along with LEX.
 ---
 
 ### 🔹 7. Code Optimization
-- `code_optimization/` – Implements optimization techniques like constant folding and dead code elimination.
+- `code_optimization/` – Shows Code optimization in sum code
 
 ---
 
